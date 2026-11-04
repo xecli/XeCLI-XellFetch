@@ -1,5 +1,5 @@
 # XeCLI-XellFetch
-[![Support XeCLI on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saveeditors)
+[![Support XeCLI on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xecli)
 
 XeCLI-XellFetch is the standalone XeLL payload and launcher bundle used by XeCLI's network fetch workflow.
 
