@@ -15,8 +15,8 @@ Includes:
 
 XeCLI uses this payload as part of its automated XeLL workflows, including verified NAND dumping and verified keyvault export. You can also use this package on its own without XeCLI by launching the helper directly and pulling the exposed HTTP endpoints from your own tooling.
 
-Main XeCLI repo: [https://github.com/SaveEditors/xecli](https://github.com/SaveEditors/xecli)
-Standalone repo: [https://github.com/SaveEditors/XeCLI-XellFetch](https://github.com/SaveEditors/XeCLI-XellFetch)
+Main XeCLI repo: [https://github.com/xecli/xecli](https://github.com/xecli/xecli)
+Standalone repo: [https://github.com/xecli/XeCLI-XellFetch](https://github.com/xecli/XeCLI-XellFetch)
 
 ## Layout
 
